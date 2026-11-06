@@ -1,0 +1,611 @@
+# ninja log v7
+24	1535	8145845803502860	build.ninja	6b3338024365e9f6
+44	1023	8132745582377400	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582458620	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582478609	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/tools/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582498623	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582514768	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/boot_picobin_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582528195	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/boot_picoboot_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582548203	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/boot_uf2_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582568200	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_base_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582584339	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_usb_reset_interface_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582584339	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_bit_ops_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582584339	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_binary_info/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582584339	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_divider_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582664798	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_sync/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582684782	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_time/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582694779	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_util/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582714780	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_stdlib_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582723747	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/common/hardware_claim/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582744311	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/pico_platform/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582764302	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/hardware_regs/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582784302	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/hardware_structs/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582830501	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582850482	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_base/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582869064	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_adc/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582869064	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_boot_lock/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582869064	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_clocks/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582944938	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_divider/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582964925	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_dma/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745582994928	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_exception/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583015018	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_flash/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583035655	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_gpio/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583055661	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_i2c/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583070320	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_interp/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583070320	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_irq/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583070320	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_pio/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583070320	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_pll/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583149132	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_pwm/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583149132	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_resets/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583176396	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_rosc/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583196471	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_rtc/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583226630	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_spi/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583246697	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_sync/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583246697	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_sync_spin_lock/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583246697	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_ticks/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583246697	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_timer/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583246697	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_uart/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583349087	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_vreg/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583371617	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_watchdog/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583391620	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_xip_cache/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583411624	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_xosc/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583423872	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/boot_bootrom_headers/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583449485	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_common/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583449485	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_compiler/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583499836	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_sections/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583519915	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_panic/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583547495	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_aon_timer/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583567484	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_bootrom/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583587485	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583617485	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_multicore/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583626927	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_unique_id/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583626927	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_atomic/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583626927	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_bit_ops/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583693123	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_divider/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583713197	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_double/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583733259	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_int64_ops/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583753326	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_flash/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583779739	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_float/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583812199	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_low_power/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583832208	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_mem_ops/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583862207	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_malloc/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583882263	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_printf/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583912277	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_rand/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583942270	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_thread_local/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583962272	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_semihosting/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745583995811	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_uart/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584025798	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_rtt/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584056706	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/cmsis/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584076708	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/tinyusb/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584112105	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_usb/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584132169	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_usb_reset/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584152250	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_i2c_slave/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584152250	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_async_context/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584194201	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_btstack/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584219446	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584262529	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584292501	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_mbedtls/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584332062	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_lwip/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584372074	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_lwip/tools/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584395524	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cyw43_arch/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584415576	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_time_adapter/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584415576	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_crt0/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584472613	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_clib_interface/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584502603	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cxx_options/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584522608	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_standard_binary_info/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584542258	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_standard_link/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584562270	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_fix/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584582252	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584598016	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_status_led/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584598016	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_runtime_init/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584598016	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_runtime/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584598016	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584598016	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdlib/cmake_install.cmake	fb722005f0b5214e
+44	1023	8132745584598016	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/docs/cmake_install.cmake	fb722005f0b5214e
+127	300	8143124052880795	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj	8992f16f741d093b
+301	521	8143124056728387	pico-sdk/src/rp2040/boot_stage2/bs2_default.elf	990dfc8edd772412
+301	521	8143124056728387	pico-sdk/src/rp2040/boot_stage2/bs2_default.dis	990dfc8edd772412
+357	680	8131852094180079	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.dis	83a7b52b2c241a9
+521	567	8143124057211852	pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	5d175215134267b6
+680	797	8131852095379971	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	c29db6011b9531a5
+567	756	8143124059040217	pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	7af99ac5714035da
+797	937	8131852096707973	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	23c5a358b216dc1f
+3810	4622	8143172311944385	CMakeFiles/PicoCan.dir/mcp2515.c.obj	7fbab50ac2e36986
+1003	1387	8131852097473264	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/custom_panic_function.S.obj	a742ed3cd8a7d9fe
+974	1474	8131852097184762	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2040/pico_platform/platform.c.obj	fb573e8e8a3b3b0
+1051	1526	8131852097980292	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	7cc0fcacbfc892f7
+983	1778	8131852097293285	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_common/common.c.obj	b7ff5acbc89c6a99
+86	499	8143325049215493	CMakeFiles/PicoCan.dir/main.c.obj	281ce16d12e5b776
+954	1891	8131852096996308	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdlib/stdlib.c.obj	1c3ca34285669b31
+1013	1910	8131852097583764	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/hardware_claim/claim.c.obj	6ff99b5b5c75a477
+1070	1922	8131852098155903	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_sync/lock_core.c.obj	6c76050319665e87
+1022	1937	8131852097681603	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync/sync.c.obj	e31608a8df93bf5a
+993	1961	8131852097372825	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/panic.c.obj	c73c9472131c3983
+1090	1972	8131852098351743	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_sync/critical_section.c.obj	a04d3139fe87e0b
+1032	1982	8131852097782028	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	d9459c2b22794267
+1061	2087	8131852098058032	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_sync/sem.c.obj	72baffbb3c57fae7
+1306	2130	8131852100526245	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_time/timeout_helper.c.obj	b3f566041fe9573e
+1526	2183	8131852102727481	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_util/fixed_bitset.c.obj	8ec2c9eefd2a55e2
+964	2233	8131852097092874	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_gpio/gpio.c.obj	1f10bdfb4b49ff1e
+1080	2267	8131852098251385	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_sync/mutex.c.obj	64c4bcdcb9014971
+1474	2607	8131852102202499	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_util/datetime.c.obj	1bc68e74d7cdca60
+1972	2673	8131852107166655	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_ticks/ticks.c.obj	5c1593bf63ac4a2
+1922	2697	8131852106678562	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_pll/pll.c.obj	68566f1b2dc1f532
+2267	2708	8131852110133027	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_divider/divider.S.obj	d47ac7ad704113bf
+1938	2720	8131852106837955	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_vreg/vreg.c.obj	9ecf658e32aea028
+1387	2744	8131852101334962	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_timer/timer.c.obj	ef5b004942d6d377
+2088	2754	8131852108322395	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	5ea41c104afe12c8
+1892	2772	8131852106380897	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_uart/uart.c.obj	b2f85622ef059de6
+2183	2784	8131852109289595	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_flash/flash.c.obj	8deb6c34095ae000
+1880	2794	8131852106262832	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_util/queue.c.obj	6ba693429a1e52a3
+1983	2820	8131852107284894	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom.c.obj	4e64d43a0e193757
+2130	2862	8131852108762048	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	2fa54096a2bf4e29
+2233	2888	8131852109796618	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xosc/xosc.c.obj	46fd463cedfbbd40
+1099	2927	8131852098453334	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_time/time.c.obj	61db3a55b4f87b90
+1962	2963	8131852107066637	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_watchdog/watchdog.c.obj	b6ec9a7bbe55e1b6
+1779	3146	8131852105240905	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/common/pico_util/pheap.c.obj	6a755a58b37ba981
+2754	3197	8131852115003999	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_divider/divider_hardware.S.obj	914331c5339f00c9
+1910	3208	8131852106551161	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_clocks/clocks.c.obj	9c1f149a0ad57404
+2608	3223	8131852113534836	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime/runtime.c.obj	2d0a6aa3300b7d9f
+2772	3234	8131852115172911	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj	a975b469efbe2992
+2708	3245	8131852114525400	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	81a5156e49dacbff
+2674	3257	8131852114200154	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj	4fbb405d1f08bafc
+2862	3268	8131852116083377	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj	dff6f4353e468d8a
+2744	3279	8131852114903376	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	47d913a6e0610dc3
+2820	3292	8131852115664942	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj	40fe1ca029e6a2e6
+2697	3302	8131852114426171	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	eec72293c4f3d1db
+1042	3369	8131852097879853	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq.c.obj	d99a727d5e1c282e
+2888	3468	8131852116338173	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj	ab75f40ec7cf525c
+2720	3553	8131852114665997	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_rtc/rtc.c.obj	cb86adda49b68b4f
+2784	3564	8131852115300101	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj	281cd4e771aaed34
+2928	3575	8131852116738104	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj	b5c48671aa67dc77
+3208	3586	8131852119535589	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	cbc5c64edd66c420
+3147	3616	8131852118922009	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj	9128a50b00686d76
+3268	3765	8131852120143782	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_crt0/crt0.S.obj	a52ab9ac3bf77a4a
+3292	3825	8131852120379771	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/cxa_guard.c.obj	87e4febff800ce89
+3197	3839	8131852119437767	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_malloc/malloc.c.obj	22ab659078f12d14
+3246	3921	8131852119912585	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	994ab7039a7e68a5
+3575	4351	8131852123216327	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	f4a5f90cec7cbd13
+2963	4407	8131852117094253	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_math.c.obj	924df3397411587
+2794	4549	8131852115406070	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_math.c.obj	792d2b6e2c52aa21
+3223	4581	8131852119694251	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_atomic/atomic.c.obj	b18985a8415652c8
+3234	4805	8131852119802893	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	f1ba292ce4a2895c
+3369	4844	8131852121152175	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	a63eb908b77ac413
+3280	4855	8131852120241737	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	f884adc5fec55ea8
+3469	4874	8131852122144280	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	dd2a82fa2b5e82ec
+3303	4896	8131852120486453	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio/stdio.c.obj	6bce8878d6133a2f
+3554	4915	8131852122998129	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_unique_id/unique_id.c.obj	d0aec446111e06c2
+3586	4931	8131852123319617	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_usb_reset/usb_reset.c.obj	e530d722a09a7e73
+3840	4953	8131852125861511	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/device/usbd_control.c.obj	e9a6c6632fb51c8f
+3258	4963	8131852120043314	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_printf/printf.c.obj	981ea7d8a45c3a54
+4407	4976	8131852131538485	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj	86f7f50c29c6b0f
+3921	4988	8131852126672402	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/audio/audio_device.c.obj	a9ea1f369c9307e1
+3564	5015	8131852123088731	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_flash/flash.c.obj	b038013af48eb254
+4581	5151	8131852133274722	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/hid/hid_device.c.obj	af7b60c2393e623c
+4549	5239	8131852132949777	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	9d7faf1a61db97ba
+3765	5264	8131852125103178	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	fcec9d6efd60736e
+4896	5345	8131852136423755	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	ae39936d3dabba58
+4805	5358	8131852135510293	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/midi/midi_device.c.obj	91378cb4735227b7
+3616	5374	8131852123622052	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	ea05c103507cea1c
+4351	5393	8131852130954918	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj	697fc3e815a98132
+4844	5412	8131852135903115	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/msc/msc_device.c.obj	3b70f1d4fac3250
+3699	3870	8143124867979323	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.obj	edd030a2f018a4e3
+4932	5516	8131852136771405	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/video/video_device.c.obj	c572bc0e63fc746f
+4855	5529	8131852136016504	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	43c659c4676842d8
+4874	5575	8131852136202501	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/net/ncm_device.c.obj	1c0d0686f0f0dea1
+4915	5582	8131852136613311	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj	6c06924efc9e1bf2
+3825	5631	8131852125716261	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/device/usbd.c.obj	62005195f0b288d3
+4988	5712	8131852137343132	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_thread_local/thread_local.c.obj	f7ae57043777007a
+4976	5716	8131852137222510	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	7c62351901b7e630
+5015	5794	8131852137617778	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_spi/spi.c.obj	95ec793657a397fa
+4953	5889	8131852136986561	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/tusb.c.obj	70aa006142629868
+4964	6023	8131852137084365	CMakeFiles/PicoCan.dir/C_/Users/itzg1/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/common/tusb_fifo.c.obj	effa120ee1cc56d9
+501	1036	8143325058579632	PicoCan.elf	53cc1ae0eb880ee5
+501	1036	8143325058579632	PicoCan.dis	53cc1ae0eb880ee5
+501	1036	8143325058579632	PicoCan.hex	53cc1ae0eb880ee5
+501	1036	8143325058579632	PicoCan.bin	53cc1ae0eb880ee5
+501	1036	8143325058579632	PicoCan.uf2	53cc1ae0eb880ee5
+428	1006	8132757066323826	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/PicoCan.dis	85c597b26d54e2db
+428	1006	8132757066323826	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/PicoCan.hex	85c597b26d54e2db
+428	1006	8132757066323826	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/PicoCan.bin	85c597b26d54e2db
+428	1006	8132757066323826	C:/Users/itzg1/OneDrive/Escritorio/Robotica/Sistemas Embebidos Avanzados/workRaspZumo/PicoCan/build/PicoCan.uf2	85c597b26d54e2db
+642	1059	8132808248393227	C:/Users/nieto/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.dis	6ee6c81f2527b554
+1060	1150	8132808249341782	C:/Users/nieto/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	dc287d80d625090f
+1151	1471	8132808252421900	C:/Users/nieto/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	5181b06aae5b7eef
+1580	2172	8132808253736946	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_common/common.c.obj	ae642788dd0727ca
+1640	2197	8132808254357443	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/custom_panic_function.S.obj	d1bffa72cd01e7
+1761	2219	8132808255562203	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	e13aac2fe23848b2
+1551	2250	8132808253516373	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2040/pico_platform/platform.c.obj	26a3b8e7f7fce396
+1509	2477	8132808253032763	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdlib/stdlib.c.obj	7358f37b9aa413da
+1661	2499	8132808254556337	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/hardware_claim/claim.c.obj	9a9e5e9020e18bbb
+1616	2552	8132808254098199	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/panic.c.obj	f0d071c93692aeee
+1713	2596	8132808255093887	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	cead4306b4fa171f
+1682	2652	8132808254770051	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync/sync.c.obj	7383f2f3a0bf9463
+1830	2727	8132808256244432	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_sync/lock_core.c.obj	f5e6174f813f23f0
+1529	2778	8132808253253926	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_gpio/gpio.c.obj	df6c8d77f205f8f7
+1896	2831	8132808256897726	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_sync/critical_section.c.obj	8e3292042df42548
+1792	2895	8132808255888744	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_sync/sem.c.obj	c10bbbb3a31e472e
+2173	3041	8132808259674185	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_time/timeout_helper.c.obj	b4106e8ea9a7d023
+1868	3115	8132808256622317	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_sync/mutex.c.obj	d739664c460edf6c
+2251	3288	8132808260449649	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_util/fixed_bitset.c.obj	51874c04f2180f1b
+2658	3514	8132808264515964	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_vreg/vreg.c.obj	16bf1e27f03664fc
+2219	3564	8132808260134142	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_util/datetime.c.obj	c98cf8953bd45ace
+2755	3598	8132808265489804	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_ticks/ticks.c.obj	1c827bb8b329d1ee
+2597	3621	8132808263910511	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_pll/pll.c.obj	d1ebdb66d98767d3
+2895	3643	8132808266894992	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	7529e64341cf8762
+2832	3706	8132808266269955	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	d010a7c023866dad
+2553	3727	8132808263470502	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_uart/uart.c.obj	5ba08d1efd753e49
+2500	3750	8132808262940554	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_util/queue.c.obj	e214bb7971a075cf
+2197	3772	8132808259914134	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_timer/timer.c.obj	13c1a1f39e02a643
+3289	3804	8132808270836857	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_divider/divider.S.obj	27077a801d9cf583
+2779	3903	8132808265769816	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom.c.obj	6ddcffa47f5ed3f5
+2728	3930	8132808265224355	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_watchdog/watchdog.c.obj	9d0fe07da30af6f7
+1922	3978	8132808257168738	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_time/time.c.obj	2a09a73659a32996
+3115	4001	8132808269097146	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xosc/xosc.c.obj	95dfc7c82eb29648
+3042	4025	8132808268361786	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_flash/flash.c.obj	d1eec62ceee45ba
+1735	4062	8132808255292423	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq.c.obj	6ad7466687f1b457
+2478	4086	8132808262730535	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/common/pico_util/pheap.c.obj	cfae5f06753e3dc7
+3706	4205	8132808275008861	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	4ecd4888de61df85
+3727	4290	8132808275218890	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_divider/divider_hardware.S.obj	15d6953f62a55678
+3622	4314	8132808274163379	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	b53229eebf349f0a
+2575	4341	8132808263700494	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_clocks/clocks.c.obj	7fccacbb12474fcd
+3750	4365	8132808275444390	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj	1144a2541397d9b3
+3930	4473	8132808277249877	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj	60828d23ab997e37
+3903	4502	8132808276979825	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj	a7e745431991fbbd
+3520	4534	8132808273358039	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime/runtime.c.obj	9a9c59eb42db219
+3600	4630	8132808273943364	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	f513472e1904413a
+3568	4655	8132808273713355	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj	c79431baa66e6d0b
+3979	4681	8132808277735350	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj	61de11ca5d1a5a3e
+4063	4704	8132808278580812	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj	7305fd93c7a4ef5b
+3773	4728	8132808275674419	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj	8bf96a4183c251dd
+3644	4753	8132808274383498	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_rtc/rtc.c.obj	6ce88e12595ebce4
+4206	4905	8132808280007856	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	fe35006739efd67e
+4002	5054	8132808277965362	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj	5a7a5e2ddd2a363f
+4087	5079	8132808278792729	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_malloc/malloc.c.obj	7659861c361b6e92
+4343	5149	8132808281375091	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	5c3c1e0780ff235c
+4474	5223	8132808282668413	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_crt0/crt0.S.obj	c8fa4e4ad0cdc741
+4534	5351	8132808283283438	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/cxa_guard.c.obj	f8ea4a09216dcfdd
+4317	5443	8132808281095252	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	e2f55f1461c67029
+4754	5487	8132808285477132	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	140d29d6a6d7bda9
+4291	5877	8132808280852256	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_atomic/atomic.c.obj	8a75aeb166a609e6
+4704	5916	8132808284984263	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_unique_id/unique_id.c.obj	31f1de837c6824c1
+4681	6006	8132808284757470	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	90d82b75e476ddc6
+5351	6028	8132808291445160	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/audio/audio_device.c.obj	5c9842df1a9e1051
+4728	6050	8132808285224792	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_flash/flash.c.obj	ec723213acfa49b5
+4502	6133	8132808282959808	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	ed39d01f459e1926
+5488	6174	8132808292820019	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj	9d3b2f6fbc7d1251
+4026	6218	8132808278195351	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_math.c.obj	bfbd64079741be0a
+4630	6256	8132808284248940	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio/stdio.c.obj	c459dcf42d14dc03
+4656	6342	8132808284498869	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	8af29d1ba2f53b68
+3805	6368	8132808275994410	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_math.c.obj	36d776484a5a4b00
+4906	6435	8132808287009459	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_usb_reset/usb_reset.c.obj	1e1338d9225c1912
+5223	6459	8132808290170846	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/device/usbd_control.c.obj	ae896b8870e80fc1
+5080	6544	8132808288758181	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	7367d724d9d8a7de
+6007	6603	8132808297999696	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/midi/midi_device.c.obj	f363e84766e8710d
+6029	6640	8132808298221379	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/msc/msc_device.c.obj	491c1cebcf19b39f
+6051	6731	8132808298442290	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	dfc8798aedff089b
+5879	6737	8132808296729688	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	a0cc9fd7edebceb3
+4366	6747	8132808281604709	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_printf/printf.c.obj	b00724d83935efff
+6174	6848	8132808299682929	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	c847f2d8a4746ca0
+5444	6854	8132808292372532	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj	3f2cb5da797bd473
+5056	6856	8132808288517995	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	a593dcb711890481
+6134	6898	8132808299287519	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/net/ncm_device.c.obj	3ff8e364d947c2ad
+6218	6899	8132808300122989	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj	448cafd91a7a35a6
+5917	6931	8132808297126302	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/hid/hid_device.c.obj	b5027d748e1d7d49
+6258	6952	8132808300528276	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/video/video_device.c.obj	a89c1ab91dac80c4
+6435	7194	8132808302298473	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	4e0c81b38de1b5a7
+6460	7224	8132808302543761	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_thread_local/thread_local.c.obj	e85e5726cfbcfd85
+5151	7349	8132808289444179	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/device/usbd.c.obj	264b925ea007de99
+6545	7413	8132808303393932	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_spi/spi.c.obj	e6a58d7106c40790
+6343	7524	8132808301373135	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/tusb.c.obj	95269ab617dd093e
+6368	7582	8132808301628343	CMakeFiles/PicoCan.dir/C_/Users/nieto/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/common/tusb_fifo.c.obj	a1925d9124da779
+753	1631	8132812876755015	C:/Users/nieto/workRaspZumo/PicoCan/build/PicoCan.dis	113221f8dd6b7e40
+753	1631	8132812876755015	C:/Users/nieto/workRaspZumo/PicoCan/build/PicoCan.hex	113221f8dd6b7e40
+753	1631	8132812876755015	C:/Users/nieto/workRaspZumo/PicoCan/build/PicoCan.bin	113221f8dd6b7e40
+753	1631	8132812876755015	C:/Users/nieto/workRaspZumo/PicoCan/build/PicoCan.uf2	113221f8dd6b7e40
+301	521	8143124056728387	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.dis	990dfc8edd772412
+521	567	8143124057211852	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	5d175215134267b6
+567	756	8143124059040217	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	7af99ac5714035da
+4020	4306	8143172314050443	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/custom_panic_function.S.obj	999842430944457c
+3879	4387	8143172312639835	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_common/common.c.obj	1c00a7ab4c6bdc4e
+106	329	8143172635845295	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	abf7df5d63cdaa7
+3825	4468	8143172312094418	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdlib/stdlib.c.obj	ff8ac76112137eb5
+3863	4393	8143172312484546	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2040/pico_platform/platform.c.obj	bbda3094a751455a
+4104	4546	8143172314885800	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync/sync.c.obj	7e5fb5055e8658d
+4174	4560	8143172315596439	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	7e82ab79439cafed
+3905	4577	8143172312979807	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/panic.c.obj	3ffe7a3a0e1a56bf
+4089	4569	8143172314745813	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/hardware_claim/claim.c.obj	95af425fe76368e6
+119	818	8143172635965298	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/sem.c.obj	4be41d8e33eddf80
+131	605	8143172636090456	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/lock_core.c.obj	49cc6c9085fcd7a5
+3840	4693	8143172312244412	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_gpio/gpio.c.obj	13e1461828b49ad4
+144	1031	8143172636220524	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/mutex.c.obj	6e4e258c9be94d22
+4265	5092	8143172316496576	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq.c.obj	a29c46287b971882
+184	907	8143172636630534	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_time/timeout_helper.c.obj	f9e04c7b7f71192f
+157	862	8143172636350477	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/critical_section.c.obj	4cd573ba506852e5
+234	1079	8143172637125879	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/fixed_bitset.c.obj	d9c8267f11073528
+612	1414	8143172640917448	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_pll/pll.c.obj	fe30abed1499b8d6
+216	1293	8143172636940586	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/datetime.c.obj	1e545ce79e7232a4
+824	1451	8143172643253553	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_vreg/vreg.c.obj	ceaff21a468c3c14
+199	1258	8143172636770480	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_timer/timer.c.obj	95b4170f1aed56ef
+292	1273	8143172637705872	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_uart/uart.c.obj	8a1b6d27c86e8d74
+864	1622	8143172643473570	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_watchdog/watchdog.c.obj	8753ad395106dfa0
+276	1382	8143172637545887	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/queue.c.obj	94dd761f56e9f270
+253	1397	8143172637315866	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/pheap.c.obj	e95e2046ded7ffe5
+907	1430	8143172643853704	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_ticks/ticks.c.obj	2679cf9639b7d44d
+1031	1683	8143172645089675	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	da80644275bb87f4
+1079	1584	8143172645569769	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	d3df409bada05e5
+1011	1963	8143172644884496	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom.c.obj	2826c73dce196b07
+170	1638	8143172636490500	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_time/time.c.obj	119b4a75a88bc3e5
+1259	1913	8143172647366036	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_flash/flash.c.obj	34175791786b4478
+1299	1712	8143172647766019	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_divider/divider.S.obj	3ddf9c4a24a5b88a
+331	1697	8143172638081205	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_clocks/clocks.c.obj	748f050b82510ba9
+1278	1941	8143172647566035	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xosc/xosc.c.obj	2e816bd829fd9db6
+1382	1978	8143172648601503	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime/runtime.c.obj	4a561020f339f27e
+1584	2111	8143172650617706	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	9ea368c8472f1ff0
+1623	2192	8143172651003051	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_divider/divider_hardware.S.obj	3013c55c09f0ecd
+1914	2264	8143172653913908	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj	675180f1c49a60d8
+1397	2069	8143172648751487	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj	cdf9acf293556bb2
+1430	2051	8143172649077016	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	3e51cc4e7fd6fb09
+1414	2178	8143172648921636	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	2ba01167f90c41d7
+1941	2350	8143172654194451	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj	7688a9e59a04ca31
+1643	1994	8143172651233107	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj	d15c136fbef02be9
+1452	2125	8143172649312345	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_rtc/rtc.c.obj	8eb2fd122fb23996
+1713	2140	8143172651903198	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj	4438aaa0697fcdbc
+1683	2468	8143172651613078	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj	c9c97cd26af0fecf
+2069	2427	8143172655470012	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	1d341e7fc766cee5
+1994	2413	8143172654724446	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj	22ee5c05f1630802
+2051	2718	8143172655299810	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_malloc/malloc.c.obj	c4c963d2a8ed6197
+1963	2601	8143172654414494	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj	e8a8f27289fed353
+2192	2769	8143172656700607	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_crt0/crt0.S.obj	55ffd7526074d782
+2140	2741	8143172656180613	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	f3898335a2cdee4f
+2351	2933	8143172658291447	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/cxa_guard.c.obj	cfa81082bb4302c8
+2111	3051	8143172655885359	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_atomic/atomic.c.obj	31c0b4239dd691c
+1698	3066	8143172651753086	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_math.c.obj	7f74f089f59a9c21
+1978	3274	8143172654564505	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_math.c.obj	6e647f594400b426
+2264	3289	8143172657426031	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	c8d269c80cae8e6a
+2469	3202	8143172659472191	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	33bab80f1edc81a6
+2125	2808	8143172656030637	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	75674e8787ac7603
+2747	3348	8143172662308264	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	6bceb78c66109f87
+2602	3381	8143172660817524	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_unique_id/unique_id.c.obj	b1a4f38044001ddd
+2414	3539	8143172658911575	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio/stdio.c.obj	e4b25a1ed77293b1
+2428	3439	8143172659056931	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	b8ab2e0541e62902
+2772	3571	8143172662538279	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_usb_reset/usb_reset.c.obj	88fc5c8e83cef433
+2725	3521	8143172662058257	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_flash/flash.c.obj	defdd38d5f85a997
+2179	3743	8143172656560612	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_printf/printf.c.obj	e616a18a9e82b0bc
+3289	3976	8143172667675774	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj	87cc8bba70b01e78
+3202	3684	8143172666800370	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/audio/audio_device.c.obj	b90d17ecc34b2e14
+3348	3884	8143172668261162	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	292b1515d5c7c5fb
+3382	3836	8143172668601123	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/hid/hid_device.c.obj	d2aa1e73c76dcd87
+3521	3961	8143172669982126	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/msc/msc_device.c.obj	aecc6551b974c2db
+2809	3938	8143172662868308	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	dcab6d4a34e43bc9
+3443	3899	8143172669211959	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/midi/midi_device.c.obj	1f9af6d26ee4c18a
+3573	4043	8143172670507361	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/net/ncm_device.c.obj	b0549cf2c2b8c99a
+3066	3769	8143172665439682	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/device/usbd_control.c.obj	995ed04b8cb37204
+3539	4092	8143172670167373	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	a6e4a8c6bf675a0c
+2933	3789	8143172664109061	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	c6d66f37222f7cb4
+3684	4194	8143172671622667	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	53d9aed533d30d10
+3274	4329	8143172667525751	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj	18eae4038b434943
+3769	4346	8143172672468166	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/video/video_device.c.obj	d9fa4a814d913019
+3744	4200	8143172672218124	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj	5468cdcd19510d48
+3884	4431	8143172673623466	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	580859a00e03aedb
+3900	4434	8143172673773476	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_thread_local/thread_local.c.obj	59378edddbfe235f
+3052	4442	8143172665299717	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/device/usbd.c.obj	b80cb0f045bef9e9
+3938	4628	8143172674158936	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_spi/spi.c.obj	45fb87e3d5951a94
+3789	4660	8143172672668131	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/tusb.c.obj	a484900a40d3a87b
+3838	4814	8143172673163485	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/lib/tinyusb/src/common/tusb_fifo.c.obj	723a8d0ea7ca7cf6
+501	1036	8143325058579632	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.dis	53cc1ae0eb880ee5
+501	1036	8143325058579632	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.hex	53cc1ae0eb880ee5
+501	1036	8143325058579632	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.bin	53cc1ae0eb880ee5
+501	1036	8143325058579632	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.uf2	53cc1ae0eb880ee5
+24	1535	8145845796487650	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845796597624	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845796657656	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/tools/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845796767670	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845796807644	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/boot_picobin_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845796857654	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/boot_picoboot_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845796917661	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/boot_uf2_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797017830	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_base_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797057809	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_usb_reset_interface_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797153044	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_bit_ops_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797213058	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_binary_info/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797273082	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_divider_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797313038	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_sync/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797373035	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_time/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797423065	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_util/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797483068	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/pico_stdlib_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797523065	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/common/hardware_claim/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797583026	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/pico_platform/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797633076	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/hardware_regs/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797673048	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/hardware_structs/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797833091	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2040/boot_stage2/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797883074	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_base/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797933078	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_adc/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845797983201	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_boot_lock/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798043203	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_clocks/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798093200	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_divider/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798148493	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_dma/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798188506	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_exception/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798238474	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_flash/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798298470	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_gpio/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798338474	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_i2c/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798418541	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_interp/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798488477	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_irq/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798548455	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_pio/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798588516	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_pll/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798628491	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_pwm/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798688474	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_resets/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798738482	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_rosc/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798778441	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_rtc/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798818443	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_spi/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798878463	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_sync/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798928494	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_sync_spin_lock/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845798968612	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_ticks/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799008625	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_timer/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799048621	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_uart/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799088654	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_vreg/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799143827	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_watchdog/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799223811	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_xip_cache/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799303859	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/hardware_xosc/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799373819	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/boot_bootrom_headers/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799423809	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_common/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799483843	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_compiler/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799533837	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_sections/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799593838	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_platform_panic/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799653923	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_aon_timer/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799703921	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_bootrom/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799743915	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799789133	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_multicore/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799829126	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_unique_id/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799879167	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_atomic/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799919146	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_bit_ops/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845799959154	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_divider/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800019260	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_double/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800059278	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_int64_ops/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800099278	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_flash/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800140690	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_float/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800180682	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_low_power/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800220653	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_mem_ops/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800260675	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_malloc/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800310671	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_printf/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800350695	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_rand/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800390658	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_thread_local/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800420657	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_semihosting/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800460676	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_uart/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800500648	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_rtt/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800540663	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/cmsis/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800580697	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/tinyusb/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800630677	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio_usb/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800660640	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_usb_reset/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800840652	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_i2c_slave/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800890648	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_async_context/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845800950660	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_btstack/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801010775	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801060764	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801100781	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_mbedtls/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801155973	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_lwip/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801215977	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_lwip/tools/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801276000	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cyw43_arch/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801326003	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_time_adapter/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801365968	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_crt0/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801415969	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_clib_interface/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801455973	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_cxx_options/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801516028	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_standard_binary_info/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801555995	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_standard_link/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801615978	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_fix/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801666018	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801746018	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_status_led/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801805995	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_runtime_init/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801866020	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_runtime/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801925998	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdio/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845801986098	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/src/rp2_common/pico_stdlib/cmake_install.cmake	6b3338024365e9f6
+24	1535	8145845802056081	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pico-sdk/docs/cmake_install.cmake	6b3338024365e9f6
+101	175	8143172275534923	pololu_zumo_2040_robot/qtr_sensor_counter.pio.h	85989005da2764a1
+101	175	8143172275534923	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/pololu_zumo_2040_robot/qtr_sensor_counter.pio.h	85989005da2764a1
+210	442	8143172275954969	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/font_8x8.c.obj	7c631e180d247e0c
+222	458	8143172276064944	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/font_8x16.c.obj	8940f6be67a4c4dc
+458	734	8143172278455773	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/custom_panic_function.S.obj	a76a08d0fd7ab9f4
+176	749	8143172275604943	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/battery.c.obj	279a2214e7cfd7f8
+187	768	8143172275714939	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/button.c.obj	7a769c95c9119e1a
+344	806	8143172277290297	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_common/common.c.obj	65b5f030d74cc522
+331	830	8143172277160322	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2040/pico_platform/platform.c.obj	f875496f4ec303fa
+250	846	8143172276344957	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/motors.c.obj	b8283e8b9580d640
+289	909	8143172276740317	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/yellow_led.c.obj	fca7f5de0eb35bc8
+302	927	8143172276870310	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdlib/stdlib.c.obj	a3d7315e1ed667f1
+263	953	8143172276475081	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/rgb_leds.c.obj	fc0ab6b1db970043
+276	1028	8143172276610313	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/sh1106.c.obj	bed9fd86c97a4672
+198	1094	8143172275824959	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/display.c.obj	bd5ec3248e1a7bad
+443	1109	8143172278285685	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_platform_panic/panic.c.obj	cf155fed72e97e38
+831	1178	8143172282152599	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	f0d4cc7358c74fe0
+735	1230	8143172281197274	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/hardware_claim/claim.c.obj	cfed2aac8839d3ea
+769	1250	8143172281532631	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	e3934cdacc1f560
+749	1267	8143172281347246	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_sync/sync.c.obj	616bdcb662403195
+316	1283	8143172277010304	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_gpio/gpio.c.obj	55978b9a4a95a4f8
+909	1383	8143172282937976	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/lock_core.c.obj	c5b4ec8a4a01ced4
+954	1409	8143172283388043	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/critical_section.c.obj	60eeb4b57b0fd700
+847	1429	8143172282322606	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/sem.c.obj	76b979d6c42a12d
+1094	1595	8143172284784171	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_time/timeout_helper.c.obj	7c11cded37bd3b53
+928	1624	8143172283127941	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_sync/mutex.c.obj	d13c216af03cfa8
+1230	1830	8143172286154816	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/fixed_bitset.c.obj	9d04a8d40ad52895
+1429	1913	8143172288145593	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_vreg/vreg.c.obj	e23662d9dc16532f
+1284	1927	8143172286690176	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_uart/uart.c.obj	cf8c495445bd08a6
+1110	1981	8143172284954199	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_timer/timer.c.obj	bf836195983808fa
+1180	1995	8143172285654804	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/datetime.c.obj	4c8d901f7ba36de9
+1409	2015	8143172287945599	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_pll/pll.c.obj	357876c189e6e36d
+1268	2033	8143172286530199	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/queue.c.obj	3268619e9c548e10
+1624	2048	8143172290101637	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_ticks/ticks.c.obj	4164bf9cc4211917
+236	2160	8143172276215017	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/ir_sensors.c.obj	8b05f28f3932184b
+806	2258	8143172281912623	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_irq/irq.c.obj	c61dfcba0b7769
+1250	2274	8143172286354811	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_util/pheap.c.obj	d22bcb466c4a9ca7
+1927	2291	8143172293127767	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	fde2022a117e6d3f
+1596	2307	8143172289801664	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_watchdog/watchdog.c.obj	7364d6284e2382ef
+2016	2379	8143172294018553	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_divider/divider.S.obj	bfabaed7e62ad75d
+1384	2394	8143172287685592	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_clocks/clocks.c.obj	1a819e2afa9009ed
+1029	2412	8143172284138748	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/common/pico_time/time.c.obj	61a8eb570f5e5f08
+1913	2427	8143172292977747	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	2da52eee138cd954
+1833	2473	8143172292192376	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bootrom/bootrom.c.obj	3daef6c345017b64
+2033	2538	8143172294178565	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime/runtime.c.obj	b1f762b0bd080c68
+1996	2563	8143172293803224	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_xosc/xosc.c.obj	cf0bb08a4854adba
+1981	2607	8143172293663172	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_flash/flash.c.obj	c22f2eadff3dfe49
+2292	2735	8143172296759897	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	1889d6637e393b5a
+2379	2749	8143172297645231	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj	479f9e0ffade4035
+2307	2798	8143172296919891	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_divider/divider_hardware.S.obj	5175ce8e1dc77cbe
+2049	2830	8143172294338565	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj	e63f3dd390cbf03a
+2160	2855	8143172295444098	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	f373b91d1a69d089
+2432	2871	8143172298165239	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj	8484016ee72989c7
+2260	2886	8143172296444637	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	c378d923694966f2
+2539	2922	8143172299235978	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj	e9bbc6ebdd7fea28
+2474	2966	8143172298590585	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj	4f775769d54f245e
+2735	2995	8143172301196640	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj	6b1d430d9fcaf56
+2394	3009	8143172297795235	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj	5a57a8bbedb26cf
+2799	3033	8143172301832139	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj	4bfbb2b537c0e7cf
+2274	3164	8143172296589889	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_rtc/rtc.c.obj	46444e0f93537623
+2563	3211	8143172299476103	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj	a4d99c0285160249
+2749	3385	8143172301336649	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_malloc/malloc.c.obj	2a423584bb1ef775
+2923	3421	8143172303077646	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_crt0/crt0.S.obj	955204200f96c283
+2872	3628	8143172302567606	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	99452311025bbf73
+2831	3808	8143172302162083	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_atomic/atomic.c.obj	ae295c1a7d94fc09
+2996	3824	8143172303812991	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/cxa_guard.c.obj	a45aac25bb8be9ad
+2855	3839	8143172302402326	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	22657624f9dfe76
+3213	3863	8143172305994293	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_adc/adc.c.obj	bc3a40f20c1ad6c7
+3170	3878	8143172305584309	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_thread_local/thread_local.c.obj	23aeda94f186fba
+2966	3900	8143172303532996	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	e3ec7bff15ce3f05
+2609	4019	8143172299941319	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_float/float_math.c.obj	4d862209d291c00e
+2413	4089	8143172297975278	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_double/double_math.c.obj	19827fe22c03d0a9
+3010	4103	8143172303953122	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio/stdio.c.obj	5198960c674bf5be
+3034	4173	8143172304198376	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	724e345711063580
+3422	4264	8143172308125114	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_spi/spi.c.obj	ad57fef39cdfc57e
+2887	4424	8143172302717624	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/pico_printf/printf.c.obj	27818f1324cc6f6e
+3390	4524	8143172307775105	pololu_zumo_2040_robot/CMakeFiles/pololu_zumo_2040_robot.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_pio/pio.c.obj	12185d4b516b6bab
+3962	4468	8143172674394232	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_adc/adc.c.obj	d9a7b472b47325c8
+4043	4704	8143172675209507	pololu_zumo_2040_robot/libpololu_zumo_2040_robot.a	ce18ef438f7f9f7e
+3976	4843	8143172674544213	CMakeFiles/PicoCan.dir/C_/Users/edidi/.pico-sdk/sdk/2.3.1/src/rp2_common/hardware_pio/pio.c.obj	ee13afc0689e6cb2
+213	1213	8145883549174031	CMakeFiles/PicoCan.dir/main.c.obj	281ce16d12e5b776
+1214	3028	8145883577214646	PicoCan.elf	53cc1ae0eb880ee5
+1214	3028	8145883577214646	PicoCan.dis	53cc1ae0eb880ee5
+1214	3028	8145883577214646	PicoCan.hex	53cc1ae0eb880ee5
+1214	3028	8145883577214646	PicoCan.bin	53cc1ae0eb880ee5
+1214	3028	8145883577214646	PicoCan.uf2	53cc1ae0eb880ee5
+1214	3028	8145883577214646	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.dis	53cc1ae0eb880ee5
+1214	3028	8145883577214646	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.hex	53cc1ae0eb880ee5
+1214	3028	8145883577214646	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.bin	53cc1ae0eb880ee5
+1214	3028	8145883577214646	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.uf2	53cc1ae0eb880ee5
+171	722	8145892035224110	CMakeFiles/PicoCan.dir/main.c.obj	281ce16d12e5b776
+723	1389	8145892047297921	PicoCan.elf	53cc1ae0eb880ee5
+723	1389	8145892047297921	PicoCan.dis	53cc1ae0eb880ee5
+723	1389	8145892047297921	PicoCan.hex	53cc1ae0eb880ee5
+723	1389	8145892047297921	PicoCan.bin	53cc1ae0eb880ee5
+723	1389	8145892047297921	PicoCan.uf2	53cc1ae0eb880ee5
+723	1389	8145892047297921	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.dis	53cc1ae0eb880ee5
+723	1389	8145892047297921	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.hex	53cc1ae0eb880ee5
+723	1389	8145892047297921	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.bin	53cc1ae0eb880ee5
+723	1389	8145892047297921	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.uf2	53cc1ae0eb880ee5
+104	572	8145897020046783	CMakeFiles/PicoCan.dir/main.c.obj	281ce16d12e5b776
+573	1133	8145897030220062	PicoCan.elf	53cc1ae0eb880ee5
+573	1133	8145897030220062	PicoCan.dis	53cc1ae0eb880ee5
+573	1133	8145897030220062	PicoCan.hex	53cc1ae0eb880ee5
+573	1133	8145897030220062	PicoCan.bin	53cc1ae0eb880ee5
+573	1133	8145897030220062	PicoCan.uf2	53cc1ae0eb880ee5
+573	1133	8145897030220062	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.dis	53cc1ae0eb880ee5
+573	1133	8145897030220062	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.hex	53cc1ae0eb880ee5
+573	1133	8145897030220062	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.bin	53cc1ae0eb880ee5
+573	1133	8145897030220062	C:/Users/edidi/Desktop/workRaspZumo/PicoCan/build/PicoCan.uf2	53cc1ae0eb880ee5
